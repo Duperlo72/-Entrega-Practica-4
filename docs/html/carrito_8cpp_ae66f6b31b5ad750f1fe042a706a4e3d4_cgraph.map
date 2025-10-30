@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,60,56"/>
+<area shape="rect" id="Node000002" href="$classUsuario.html#a0e3ed2cb99d6d40a7acd093422770dc9" title=" " alt="" coords="108,5,295,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,37,103,30,104,35,61,42"/>
+<area shape="rect" id="Node000004" href="$classUsuario.html#a6021383d54c4e05bc60e6d88ef39074a" title=" " alt="" coords="111,55,292,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="61,44,99,50,99,55,60,50"/>
+<area shape="rect" id="Node000003" href="$classCarrito.html#acdba82fb7a5ff217ac5edf4405bf325a" title=" " alt="" coords="350,5,505,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,15,336,15,336,21,295,21"/>
+<area shape="rect" id="Node000005" href="$classCarrito.html#a7b6bf05a9e9f8032d098080a4309686f" title=" " alt="" coords="343,55,512,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="292,65,329,65,329,70,292,70"/>
+<area shape="rect" id="Node000006" href="$classCarrito.html#a2bb1ea68229d5e944c288ea124acf9d5" title=" " alt="" coords="353,104,501,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="261,77,356,98,354,104,260,83"/>
+</map>

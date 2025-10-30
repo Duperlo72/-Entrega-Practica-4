@@ -1,0 +1,34 @@
+cat > Doxyfile <<'DOXY'
+# Doxyfile minimal para generar documentación con diagramas (UML) usando Graphviz
+PROJECT_NAME           = "MiProyecto"
+OUTPUT_DIRECTORY       = "docs"
+CREATE_SUBDIRS         = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+# Directorios/archivos a analizar — ajusta si tus .h están en include/
+INPUT                  = ./        # usa ./ o ./include
+FILE_PATTERNS          = *.h *.hpp *.cpp
+RECURSIVE              = YES
+
+# Habilitar diagramas con Graphviz (dot)
+HAVE_DOT               = YES
+DOT_PATH               = /usr/bin/dot        # ajusta si `which dot` muestra otra ruta
+DOT_FONTNAME           = Helvetica
+DOT_FONTSIZE           = 10
+DOT_IMAGE_FORMAT       = png
+CLASS_DIAGRAMS         = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+DOT_TRANSPARENT        = YES
+
+# Mejora la salida
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+GENERATE_TREEVIEW      = YES
+
+# Evita que la configuración pregunte
+QUIET                  = YES
+WARNINGS               = YES
+DOXY
