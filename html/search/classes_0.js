@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['carrito_0',['Carrito',['../classCarrito.html',1,'']]],
-  ['cube_1',['Cube',['../classCube.html',1,'']]]
+  ['cube_0',['Cube',['../classCube.html',1,'']]]
 ];
