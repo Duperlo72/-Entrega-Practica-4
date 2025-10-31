@@ -1,7 +1,0 @@
-<map id="Usuario::mostrarUsuario" name="Usuario::mostrarUsuario">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,187,56"/>
-<area shape="rect" id="Node000002" href="$classCarrito.html#a7b6bf05a9e9f8032d098080a4309686f" title=" " alt="" coords="235,5,404,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,30,221,27,221,32,187,36"/>
-<area shape="rect" id="Node000003" href="$classCarrito.html#a2bb1ea68229d5e944c288ea124acf9d5" title=" " alt="" coords="245,55,393,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,50,232,55,232,61,187,56"/>
-</map>
